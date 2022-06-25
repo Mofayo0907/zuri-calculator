@@ -1,2 +1,2 @@
-# zuri-calculator
-This repository contains a calculator made with Javascript only.
+# zuri-js-intro
+# This repository contains a calculator made with Javascript only.
